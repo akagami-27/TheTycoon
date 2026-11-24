@@ -1,0 +1,23 @@
+{
+    "name": "TheTycoon.Editor",
+    "rootNamespace": "TheTycoon.Editor",
+    "references": [
+        "TheTycoon.Core",
+        "TheTycoon.Features",
+        "TheTycoon.UI",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
